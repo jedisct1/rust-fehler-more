@@ -1,0 +1,11 @@
+[package]
+name = "fehler-more"
+version = "0.1.0"
+authors = ["Frank Denis <github@pureftpd.org>"]
+edition = "2018"
+description = "Additional macros for Fehler"
+license = "MIT"
+repository = "https://github.com/jedisct1/rust-fehler-more"
+
+[dependencies]
+fehler = "1.0.0-alpha"
